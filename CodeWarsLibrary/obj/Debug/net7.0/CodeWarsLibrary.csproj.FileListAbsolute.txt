@@ -1,0 +1,11 @@
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\bin\Debug\net7.0\CodeWarsLibrary.deps.json
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\bin\Debug\net7.0\CodeWarsLibrary.dll
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\bin\Debug\net7.0\CodeWarsLibrary.pdb
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\CodeWarsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\CodeWarsLibrary.AssemblyInfoInputs.cache
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\CodeWarsLibrary.AssemblyInfo.cs
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\CodeWarsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\CodeWarsLibrary.dll
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\refint\CodeWarsLibrary.dll
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\CodeWarsLibrary.pdb
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibrary\obj\Debug\net7.0\ref\CodeWarsLibrary.dll

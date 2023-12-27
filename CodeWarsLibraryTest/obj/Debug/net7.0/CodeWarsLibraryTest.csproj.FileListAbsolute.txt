@@ -1,0 +1,6 @@
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibraryTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibraryTest\obj\Debug\net7.0\CodeWarsLibraryTest.csproj.AssemblyReference.cache
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibraryTest\obj\Debug\net7.0\CodeWarsLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibraryTest\obj\Debug\net7.0\CodeWarsLibraryTest.AssemblyInfoInputs.cache
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibraryTest\obj\Debug\net7.0\CodeWarsLibraryTest.AssemblyInfo.cs
+C:\Users\SPASIBOCHTONERYZEN\source\repos\Hamming Code\CodeWarsLibraryTest\obj\Debug\net7.0\CodeWarsLibraryTest.csproj.CoreCompileInputs.cache
